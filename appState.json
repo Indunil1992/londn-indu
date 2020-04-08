@@ -1,0 +1,90 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "fc93ee39-c423-4b05-8db1-615d05ba6c57": {
+        "id": "fc93ee39-c423-4b05-8db1-615d05ba6c57",
+        "parent": null,
+        "name": "londn-indu.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "londn-indu.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "nodejs8",
+          "timeout": 60,
+          "memory": 128,
+          "triggerType": 0,
+          "name": "londnIndu"
+        },
+        "triggers": [
+          {
+            "resourceName": "http-trigger",
+            "config": {}
+          }
+        ]
+      },
+      "00fe4d4c-b5aa-444f-817b-d2913da2a8b2": {
+        "id": "00fe4d4c-b5aa-444f-817b-d2913da2a8b2",
+        "parent": null,
+        "name": "index.js",
+        "type": "JS_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": false,
+        "filePath": "index.js"
+      },
+      "c549bdf0-de9a-468c-a62f-487f2267a2d8": {
+        "id": "c549bdf0-de9a-468c-a62f-487f2267a2d8",
+        "parent": null,
+        "name": "main.py",
+        "type": "PYTHON_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": false,
+        "filePath": "main.py"
+      }
+    },
+    "openFiles": [
+      "fc93ee39-c423-4b05-8db1-615d05ba6c57"
+    ],
+    "currentFileId": "fc93ee39-c423-4b05-8db1-615d05ba6c57",
+    "resources": {
+      "http-trigger": {
+        "name": "http-trigger",
+        "type": "http-trigger",
+        "config": {}
+      }
+    },
+    "customTemplate": {
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "projectName": "londn-indu",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "europe-west2",
+    "platform": "GCP",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1586349711194
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "londn-indu",
+      "url": "https://github.com/Indunil1992/londn-indu"
+    }
+  }
+}
